@@ -1,12 +1,12 @@
 <div align="center">
-<img src="./images/profilebanner.jpeg" align="center" width="600" heigth="500" />
+<img src="./images/profilebannerale.jpeg" align="center" width="600" heigth="500" />
 </div> 
 
 
 
 Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-Alejandra%20Keber-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandra-keber/)](https://www.linkedin.com/in/alejandra-keber/)
 
-- 📝 I’m currently studying Full Stack development at Microverse
+- 📝 I’m currently studying full-stack development at Microverse
 
 - 🌱 I’m currently learning HTML, CSS and javaScript
 
