@@ -1,3 +1,6 @@
+<div align="center">
+<img src="" align="center" style="width: 100%" />
+</div> 
 ## Hi there 👋, I am Alejandra Keber
 
 Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-Alejandra%20Keber-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandra-keber/)](https://www.linkedin.com/in/alejandra-keber/)
